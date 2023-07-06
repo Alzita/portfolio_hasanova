@@ -1,0 +1,22 @@
+.left,
+.right {
+  display: block;
+  width: 100%;
+  font-size: 12px;
+}
+
+.left img,
+.right img {
+  display: inline-block;
+  margin: 10px;
+}
+
+.left img {
+  float: left;
+  margin-left: 0;
+}
+
+.right img {
+  float: right;
+  margin-right: 0;
+}

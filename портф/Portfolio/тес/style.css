@@ -1,0 +1,42 @@
+div{
+    width: 990px;
+    margin: auto;
+}
+.dialog{
+    margin-bottom:3px;
+    border-radius: 5px;
+    border: 0px solid #bdbdbd;
+    border-right: 1px solid #5856d6;
+    background-color: #d1faff;
+    /*box-shadow: rgba(0,0,0,.35) 0 0 6px 0;*/
+    text-align: center;
+    width: fit-content;
+    padding: 12px 30px; 
+    position: relative;
+}
+.hed{
+    width: 200px;
+    vertical-align: top;
+}
+img{
+     max-width: 100%;
+     height: auto;
+}
+.hed1{
+    color:#1e27ac;
+}
+.hed2{
+    margin-left: 20px;
+}
+summary{
+    font-style: 800;
+    color:#0d275f;
+    border-bottom: 1px dotted #0d275f;
+}
+span{
+    color: #999999;
+}
+.hedOne{
+    color:#1e27ac;;
+    letter-spacing: unset;
+}
